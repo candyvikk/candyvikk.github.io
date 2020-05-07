@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>HTML基础</title>
+      <link href="/2020/05/07/HTML%E5%9F%BA%E7%A1%80/"/>
+      <url>/2020/05/07/HTML%E5%9F%BA%E7%A1%80/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>上周时间花了一些时间学了一下HTML，做了一些笔记，还是比较简单的，我的打算是学完HTML后，继续CSS，然后JS，<br>最后看看HTML5和CSS3,在此记录自己的学习过程.</p></blockquote><h1 id="HTML简介"><a href="#HTML简介" class="headerlink" title="HTML简介"></a>HTML简介</h1><h2 id="什么是HTML？"><a href="#什么是HTML？" class="headerlink" title="什么是HTML？"></a>什么是HTML？</h2><blockquote><p>HTML是用来描述网页的一种语言。<br> 1.超文本标记语言—–Hyper Text Markup Language<br> 2.它不是编程语言，是一种标记语言（markup language）<br> 3.标记语言是一套标记标签（markup tag）<br>4.HTML使用标记标签来描述网页</p></blockquote><h2 id="HTML标签-HTML-tag"><a href="#HTML标签-HTML-tag" class="headerlink" title="HTML标签(HTML tag)"></a>HTML标签(HTML tag)</h2><blockquote><p>1.HTML标签是由尖括号包围的关键词，例如<html><br>2.HTML标签成对出现，例如<a>  </a> 前者是开始标签，后者是结束标签 ,也被称为开发标签和闭合标签</html></p></blockquote><h2 id="HTML文档-网页"><a href="#HTML文档-网页" class="headerlink" title="HTML文档=网页"></a>HTML文档=网页</h2><blockquote><p>1.HTML文档描述网页，即HTML文档=网页<br> 2.HTML文档包含HTML标签和纯文本<br> 3.Web浏览器的作用是读取HTML文档，并以网页的形式呈现出它们。浏览器不会显示HTML标签，<br> 而是使用标签来解释页面的内容：</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span>                     </span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span>                  </span><br><span class="line"><span class="tag">&lt;<span class="name">h1</span>&gt;</span>我的第一个标题<span class="tag">&lt;/<span class="name">h1</span>&gt;</span>   </span><br><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span>我的第一个段落<span class="tag">&lt;/<span class="name">p</span>&gt;</span>     </span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在Mac上搭建自己的博客(零基础)</title>
       <link href="/2020/04/25/%E5%9C%A8Mac%E4%B8%8A%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2(%E9%9B%B6%E5%9F%BA%E7%A1%80)/"/>
       <url>/2020/04/25/%E5%9C%A8Mac%E4%B8%8A%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2(%E9%9B%B6%E5%9F%BA%E7%A1%80)/</url>
