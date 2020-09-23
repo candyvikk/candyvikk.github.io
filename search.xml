@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>我的MySQL</title>
+      <link href="/2020/09/23/%E6%88%91%E7%9A%84MySQL/"/>
+      <url>/2020/09/23/%E6%88%91%E7%9A%84MySQL/</url>
+      
+        <content type="html"><![CDATA[<h1 id="MySQL的常见命令"><a href="#MySQL的常见命令" class="headerlink" title="MySQL的常见命令"></a>MySQL的常见命令</h1><blockquote><p>1.查看当前所有的数据库<br>show databases ;<br>2.打开指定的库名<br>use 库名 ;<br>3.查看当前库的所有表<br>show tables ;<br>4.查看其它库的所有表<br>show tables from 库名 ;<br>5.创建表<br>create table 表名 (<br> 列名 列类型 ,<br> 列名 列类型,<br>………<br>) ;<br>7.查看表内容<br>select * from 表名*<br>6.查看表结构<br>desc 表名 ;<br>7.查看服务器的版本<br>方式一：登录到mysql服务端<br>select version() ;<br>方式二：没有登录到mysql服务端<br>mysql - -version<br>或<br>mysql - -v</p></blockquote><h1 id="MySQL的语法规范"><a href="#MySQL的语法规范" class="headerlink" title="MySQL的语法规范"></a>MySQL的语法规范</h1><blockquote><p>1.不区分大小写，但建议关键字大写，表名、列名小写<br>2.每条命令最好用分号结尾<br>3.每条命令根据需要，可以进行缩进或者换行<br>4.注释<br>单行注释1：#注释<br>单行注释2：- -  注释<br>多行注释：/* 注释 */</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快速入门数据结构与算法</title>
       <link href="/2020/08/25/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
       <url>/2020/08/25/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</url>
